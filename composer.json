@@ -1,0 +1,19 @@
+{
+    "name": "tyhpdef/guzzlehttp-promises",
+    "description": "Tyhp type definitions for guzzlehttp/promises 2.5.3.",
+    "type": "metapackage",
+    "license": "Apache-2.0",
+    "version": "2.5.3",
+    "keywords": [
+        "dev",
+        "static analysis"
+    ],
+    "require": {
+        "tyhpdef/guzzlehttp-promises-impl": "~2.5.3.0"
+    },
+    "extra": {
+        "tyhp": {
+            "impl": "tyhpdef/guzzlehttp-promises-impl"
+        }
+    }
+}
