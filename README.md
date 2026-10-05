@@ -1,10 +1,10 @@
 <!-- tyhp-readme:start -->
 # tyhpdef/guzzlehttp-promises
 
-Tyhp type definitions for `guzzlehttp/promises` `2.5.3`.
+Tyhp type definitions for `guzzlehttp/promises` `3.0.2`.
 
 ```bash
-composer require --dev tyhpdef/guzzlehttp-promises:2.5.3
+composer require --dev tyhpdef/guzzlehttp-promises:3.0.2
 ```
 
 This is a metapackage. Composer also installs `tyhpdef/guzzlehttp-promises-impl` (type files).
